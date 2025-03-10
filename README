@@ -1,0 +1,10 @@
+Name    : M. Ilfi Faza Nasibi
+NIM     : 1313623030
+Class   : Ilmu Komputer 2023A
+
+How to compile:
+1. Open terminal in src folder
+2. Type 'g++ main.cpp -o main.exe'
+
+How to run:
+1. Type './main' on terminal inside the src folder after the file compiled
